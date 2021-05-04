@@ -18,7 +18,8 @@
   "homepage": "https://github.com/ArthurGritsishin/frontend-project-lvl1#readme",
   "description": "",
   "dependencies": {
-    "cl": "^0.0.1"
+    "cl": "^0.0.1",
+    "readline-sync": "^1.4.10"
   },
   "bin": {
     "brain-games": "bin/brain-games.js"
