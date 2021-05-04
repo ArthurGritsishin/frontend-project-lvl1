@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurGritsishin/frontend-project-lvl1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurGritsishin/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/ArthurGritsishin/frontend-project-lvl1#readme",
+  "description": "",
+  "dependencies": {
+    "cl": "^0.0.1"
+  },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
+}
